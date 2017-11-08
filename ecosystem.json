@@ -1,8 +1,8 @@
 {
     "apps": [
         {
-            "name": "vueMall",
-            "script": "server/bin/www.js",
+            "name": "vueMall3333",
+            "script": "server3333/bin333/www.js",
             "env": {
                 "COMMON_VARIABLE":"true"
             },
